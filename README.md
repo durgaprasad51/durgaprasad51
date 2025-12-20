@@ -38,6 +38,12 @@ I’m a **AWS DevOps Engineer** with overall 17+ years of experience in the fiel
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/>
 </p>
 
+### **Scripting**
+<p align="left">
+   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21~bgwhite.svg" alt="bash" width="40" height="40"/>
+</p>
+
 ---
 
 ## 📈 Activity Graph
