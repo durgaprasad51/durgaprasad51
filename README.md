@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I’m Durga, a **AWS DevOps Engineer** with overall 17+ years of experience in the field of IT. Specialied in **Cloud Architecture** and **Automation**, **containerization**, **monitoring and logging**, **CI/CD pipelines**. I'm passionate about deploying infra through automation.
+I’m a **AWS DevOps Engineer** with overall 17+ years of experience in the field of IT. Specialied in **Cloud Architecture** and **Automation**, **containerization**, **monitoring and logging**, **CI/CD pipelines**. I'm passionate about deploying infra through automation.
 
 - 🔭 Currently working on **AWS Cloud Services**, **DevOps and Automation** 
 - 🌱 Always learning about **emerging technologies** and **best practices**
