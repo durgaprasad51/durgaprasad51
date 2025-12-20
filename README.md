@@ -43,17 +43,7 @@ I’m Durga, a **AWS DevOps Engineer** with overall 17+ years of experience in t
 
 ## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LondheShubham153&theme=tokyo-night&hide_border=true" alt="Activity Graph">
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-[![Email](https://img.shields.io/badge/Email-trainwithshubham@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durga2pd@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/durgaprasad-awsdevops/)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=durgaprasad51&theme=tokyo-night&hide_border=true" alt="Activity Graph">
 </div>
 
 ---
