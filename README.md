@@ -41,7 +41,7 @@ I’m a **AWS DevOps Engineer** with overall 17+ years of experience in the fiel
 ### **Scripting**
 <p align="left">
    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21~bgwhite.svg" alt="bash" width="40" height="50"/>
+   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21~bgwhite.svg" alt="bash" width="55" height="55"/>
 </p>
 
 ---
