@@ -13,7 +13,7 @@ I’m a **AWS DevOps Engineer** with overall 17+ years of experience in the fiel
 - 🔭 Currently working on **AWS Cloud Services**, **DevOps and Automation** 
 - 🌱 Always learning about **emerging technologies** and **best practices**
 - 👯 I’m looking to collaborate on **open-source projects** and **Cloud** & **DevOps initiatives**
-- 💬 Ask me about **Cloud Architecture**, **DevOps**, **Automation**, **Scripting**
+- 💬 Ask me about **Cloud Architecture**, **DevOps**, **Automation**, **Bash/Python Scripting**
 
 ---
 
