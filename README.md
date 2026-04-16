@@ -1,6 +1,8 @@
 <div align="center">
   
-# Hi I'm Durga 👋
+# 👋 Hi, I'm Durga Prasad
+
+💻 DevOps Engineer | ☁️ Cloud Enthusiast | ⚙️ Automation Lover
 
 </div>
 
@@ -8,12 +10,11 @@
 
 ## 🚀 About Me 
 
-I’m a **AWS DevOps Engineer** with overall 17+ years of experience in the field of IT.  Specialized in **Cloud Architecture**,  **Automation**, **containerization**, **monitoring and logging**, and **CI/CD pipelines** leveraging tools like **Jenkins**, **Ansible**, **Terraform**, **Lambda** and **AWS Code-deploy** to ensure seamless deployment processes. I'm passionate about scaling & automation using python.
-
-- 🔭 Currently working on **AWS Cloud Services**, **DevOps and Automation** 
-- 🌱 Always learning about **emerging technologies** and **best practices**
-- 👯 I’m looking to collaborate on **open-source projects** and **Cloud** & **DevOps initiatives**
-- 💬 Ask me about **Cloud Architecture**, **DevOps**, **Automation**, **Bash/Python Scripting**
+* 🔭 I’m a **AWS DevOps Engineer** with overall 17+ years of experience in the field of IT.  Specialized in **Cloud Architecture**,  **Automation**, **containerization**, **monitoring and logging**, and **CI/CD pipelines**      leveraging tools like **Jenkins**, **Ansible**, **Terraform**, **Lambda** and **AWS Code-deploy** to ensure seamless deployment processes. I'm passionate about scaling & automation using python.
+* 🔭 Currently working on **AWS Cloud Services**, **DevOps and Automation** 
+* 🌱 Always learning about **emerging technologies** and **best practices**
+* 👯 I’m looking to collaborate on **open-source projects** and **Cloud** & **DevOps initiatives**
+* 💬 Ask me about **Cloud Architecture**, **DevOps**, **Automation**, **Bash/Python Scripting**
 
 ---
 
@@ -47,12 +48,19 @@ I’m a **AWS DevOps Engineer** with overall 17+ years of experience in the fiel
 
 <p align="center">
    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60"/>
-   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21~bgwhite.svg" width="60"/>
+   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21~bgwhite.svg" width="80"/>
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 🧩 Featured Projects
+
+* 🚀 **Project 1** — Short description
+* ⚙️ **Project 2** — Short description
+
+---
+
+### 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=durgaprasad51&theme=tokyo-night&hide_border=true" alt="Activity Graph">
 </div>
