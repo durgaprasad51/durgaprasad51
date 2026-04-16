@@ -17,9 +17,7 @@ I’m a **AWS DevOps Engineer** with overall 17+ years of experience in the fiel
 
 ---
 
-<p align="center">
-  ## 🛠️ Tech Stack 
-</p>
+## 🛠️ Tech Stack 
 
 ### ☁️ Cloud & DevOps  
 
