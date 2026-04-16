@@ -17,11 +17,11 @@ I’m a **AWS DevOps Engineer** with overall 17+ years of experience in the fiel
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
 ### ☁️ Cloud & DevOps  
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="60"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="60"/>
@@ -31,19 +31,23 @@ I’m a **AWS DevOps Engineer** with overall 17+ years of experience in the fiel
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="60"/>
 </p>
 
+---
 
+### 📊 Monitoring & Logging
 
-### **Monitoring**
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="50" height="50"/>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="60"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="60"/>
 </p>
 
-### **Scripting**
-<p align="left">
-   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50" height="50"/>
-   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21~bgwhite.svg" alt="bash" width="55" height="55"/>
+---
+
+### 🧑‍💻 Scripting & Automation
+
+<p align="center">
+   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60"/>
+   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21~bgwhite.svg" width="60"/>
 </p>
 
 ---
