@@ -21,7 +21,7 @@ I’m a **AWS DevOps Engineer** with overall 17+ years of experience in the fiel
 
 ### ☁️ Cloud & DevOps  
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="60"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="60"/>
