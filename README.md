@@ -37,7 +37,7 @@ I enjoy turning complex infrastructure challenges into **simple, automated, and 
 * CI/CD: Jenkins, GitHub Actions, GitLab CI
 * IaC: Terraform, AWS CloudFormation
 * Configuration Management: Ansible
-* 🐳 Containers & Orchestration (Docker, Kubernetes)
+* Containers & Orchestration (Docker, Kubernetes)
  
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
@@ -86,7 +86,6 @@ I enjoy turning complex infrastructure challenges into **simple, automated, and 
 * ⚙️ Automated AWS infrastructure (Terraform)
 * 🚀 CI/CD pipeline implementations
 * 🚀 Kubernetes deployments
-* 🚀 Monitoring dashboards
 
 ---
 
