@@ -20,7 +20,11 @@ I’m a **AWS DevOps Engineer** with overall 17+ years of experience in the fiel
 ## 🛠️ Tech Stack
 
 ### **Cloud & DevOps**
-<p align=" left ">
+
+<p align="left ">
+  <img width="2560" height="2560" alt="aws" src="https://github.com/user-attachments/assets/09cc0aaa-a546-41f2-a535-f782cd283e0a" /> alt="aws" width="40" height="40"/>
+ <img width="64" height="64" alt="docker-icon" src="https://github.com/user-attachments/assets/d68e2a3c-b430-4354-874b-52ad1cf0fc63" />
+ 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
@@ -31,14 +35,14 @@ I’m a **AWS DevOps Engineer** with overall 17+ years of experience in the fiel
 </p>
 
 ### **Monitoring**
-<p align=" left ">
+<p align="left ">
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/>
 </p>
 
 ### **Scripting**
-<p align=" left ">
+<p align="left ">
    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21~bgwhite.svg" alt="bash" width="55" height="55"/>
 </p>
