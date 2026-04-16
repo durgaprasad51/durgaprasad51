@@ -51,28 +51,25 @@ I enjoy turning complex infrastructure challenges into **simple, automated, and 
 
 ---
 
-### 📊 Monitoring & Logging
-
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="60"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="60"/>
-</p>
-
----
-
-### 🧑‍💻 Scripting & Automation
+### 📊 Monitoring/Logging & 🧑‍💻 Scripting
 
 * Prometheus
 * Grafana
 * ELK Stack (Elasticsearch, Logstash, Kibana)
 * AWS CloudWatch
-  
+
 <p align="center">
-   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60"/>
-   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21~bgwhite.svg" width="80"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="60"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="60"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21~bgwhite.svg" width="80"/>
+  
+  
 </p>
 
+---
+  
 ### 🔐 Security & Best Practices
 
 * IAM Policies & Role Management
