@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Durga Prasad
+# 👋 Hi, I'm Durga Prasad !!!
 
 💻 DevOps Engineer | ☁️ Cloud Enthusiast | ⚙️ Automation Lover
 
@@ -10,18 +10,35 @@
 
 ## 🚀 About Me 
 
-* 🔭 I’m a **AWS DevOps Engineer** with overall 17+ years of experience in the field of IT.  Specialized in **Cloud Architecture**,  **Automation**, **containerization**, **monitoring and logging**, and **CI/CD pipelines**      leveraging tools like **Jenkins**, **Ansible**, **Terraform**, **Lambda** and **AWS Code-deploy** to ensure seamless deployment processes. I'm passionate about scaling & automation using python.
-* 🔭 Currently working on **AWS Cloud Services**, **DevOps and Automation** 
-* 🌱 Always learning about **emerging technologies** and **best practices**
-* 👯 I’m looking to collaborate on **open-source projects** and **Cloud** & **DevOps initiatives**
-* 💬 Ask me about **Cloud Architecture**, **DevOps**, **Automation**, **Bash/Python Scripting**
+🌟 I’m a passionate **AWS & DevOps Automation Engineer** with over **18 years of experience in IT**, including **4+ years specializing in cloud and DevOps practices**.
+
+I focus on building **scalable, secure, and automated infrastructure** that empowers teams to deliver faster and more reliably. My journey spans traditional IT systems to modern cloud-native architectures—giving me a strong foundation and a forward-thinking approach.
+
+## ⚙️ What I Do
+
+* 🔹 Design and implement **cloud-native architectures on AWS**
+* 🔹 Build and manage **CI/CD pipelines for rapid delivery**
+* 🔹 Automate infrastructure using **Infrastructure as Code (IaC)**
+* 🔹 Improve system reliability with **monitoring & observability**
+* 🔹 Optimize cloud costs and performance
+* 🔹 Enable teams with **DevOps best practices**
+
+## ⚡ Fun Fact
+
+I enjoy turning complex infrastructure challenges into **simple, automated, and scalable solutions**.
 
 ---
 
-## 🛠️ Tech Stack 
+## 🛠️ Tech Stack & Tools
 
-### ☁️ Cloud & DevOps  
+### ☁️ Cloud DevOps & Automation
 
+* AWS (EC2, S3, RDS, Lambda, VPC, IAM, CloudFront, EKS)
+* CI/CD: Jenkins, GitHub Actions, GitLab CI
+* IaC: Terraform, AWS CloudFormation
+* Configuration Management: Ansible
+* 🐳 Containers & Orchestration (Docker, Kubernetes)
+ 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="60"/>
@@ -46,17 +63,30 @@
 
 ### 🧑‍💻 Scripting & Automation
 
+* Prometheus
+* Grafana
+* ELK Stack (Elasticsearch, Logstash, Kibana)
+* AWS CloudWatch
+  
 <p align="center">
    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60"/>
    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21~bgwhite.svg" width="80"/>
 </p>
 
+### 🔐 Security & Best Practices
+
+* IAM Policies & Role Management
+* Secrets Management
+* Secure CI/CD pipelines
+
 ---
 
 ## 🧩 Featured Projects
 
-* 🚀 **Project 1** — Short description
-* ⚙️ **Project 2** — Short description
+* ⚙️ Automated AWS infrastructure (Terraform)
+* 🚀 CI/CD pipeline implementations
+* 🚀 Kubernetes deployments
+* 🚀 Monitoring dashboards
 
 ---
 
@@ -66,3 +96,5 @@
 </div>
 
 ---
+
+⭐️ *“Automation is not just a tool — it's a mindset for building reliable systems.”*
