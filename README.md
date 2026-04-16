@@ -66,12 +66,3 @@
 </div>
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=durga prasadshow_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=durgaprasad51&theme=tokyonight" />
-</p>
-
----
