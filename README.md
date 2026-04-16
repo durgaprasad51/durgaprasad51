@@ -60,6 +60,16 @@
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?durgaprasad51=durgaprasad51&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=durgaprasad51&theme=tokyonight" />
+</p>
+
+---
+
+
 ### 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=durgaprasad51&theme=tokyo-night&hide_border=true" alt="Activity Graph">
